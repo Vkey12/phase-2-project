@@ -1,2 +1,2 @@
-function SignOut(){}
+function SignOut(){ }
 export default SignOut;
