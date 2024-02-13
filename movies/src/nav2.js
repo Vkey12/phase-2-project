@@ -1,3 +1,3 @@
 function nav2 (){
-    return( < we are up there/>)
+    return( < div> this is demo 2</div>)
 }
